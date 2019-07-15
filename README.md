@@ -1,1 +1,1 @@
-### `fluent-loader` development has moved to the [fluent-compiler monorepo](/eemeli/fluent-compiler).
+### `fluent-loader` development has moved to the [fluent-compiler monorepo](https://github.com/eemeli/fluent-compiler).
